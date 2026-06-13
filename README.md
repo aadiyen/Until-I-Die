@@ -6,7 +6,6 @@
 A hypercasual 2D sword combat game developed in Godot. Players must survive endless waves of enemies, defeat them using sword attacks, and achieve the highest score possible.
 
 ## Gameplay
-
 - Fight waves of enemies
 - Attack using a sword combat system
 - Score points by defeating enemies
@@ -39,3 +38,4 @@ During this project I practiced:
 - Debugging gameplay mechanics
 
 ## Play the Game
+https://adiyen.itch.io/until-i-die
